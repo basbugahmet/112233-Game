@@ -36,7 +36,7 @@ This project is a one-player number matching game, where the player aims to get 
 
 ## Sample Screens
 
-Here are some sample screens from the game with different scores:
+Here are some sample screens from the game:
 
 **Main Menu**
 
