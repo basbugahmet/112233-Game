@@ -5,7 +5,7 @@
 
 **Poster**
 
-![poster](https://raw.githubusercontent.com/basbugahmet/112233-Game/main/poster.jpg?token=GHSAT0AAAAAACBDJH4DSP6LT4IGYXIQF2ESZBPN6GA)
+![poster](https://github.com/basbugahmet/112233-Game/blob/main/poster.jpg)
 
 This project is a one-player number matching game, where the player aims to get the highest score by matching the same numbers side by side. The game is played on a 3x30 board, initially filled with 30 random numbers (1, 2, and 3). The player moves a cursor with the arrow keys on the keyboard and moves numbers under the cursor with the WASD keys. The game rules allow moving single numbers only, and if two identical numbers come together on the same line, they get deleted from the board, and the player's score increases by 10 points. New two random numbers are generated and placed randomly on the board.
 
