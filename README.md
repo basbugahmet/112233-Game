@@ -40,13 +40,13 @@ Here are some sample screens from the game with different scores:
 
 **Main Menu**
 
-![mainMenu](https://raw.githubusercontent.com/basbugahmet/112233-Game/main/SampleScreenshots/mainMenu.jpg?token=GHSAT0AAAAAACBDJH4CGZQL4CFAQ7PO2YU6ZBPNYCQ)
+![mainMenu](https://raw.githubusercontent.com/basbugahmet/112233-Game/main/SampleScreenshots/mainMenu.jpg?token=GHSAT0AAAAAACBDJH4DDBGT37NCSL7UDAEMZBPOD6Q)
 
 
 
 
 **In-Game**
-![inGame](https://raw.githubusercontent.com/basbugahmet/112233-Game/main/SampleScreenshots/inGame.jpg?token=GHSAT0AAAAAACBDJH4CO4WKB4EJEYNX4Q42ZBPNWPA)
+![inGame](https://raw.githubusercontent.com/basbugahmet/112233-Game/main/SampleScreenshots/inGame.jpg?token=GHSAT0AAAAAACBDJH4D6LXI5R4J2Y6BILRMZBPODCQ)
 
 
 ## Installation and Usage
