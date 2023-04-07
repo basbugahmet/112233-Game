@@ -40,7 +40,7 @@ Here are some sample screens from the game with different scores:
 
 **Main Menu**
 
-![mainMenu](https://raw.githubusercontent.com/basbugahmet/112233-Game/main/SampleScreenshots/mainMenu.jpg?token=GHSAT0AAAAAACBDJH4DDBGT37NCSL7UDAEMZBPOD6Q)
+![mainMenu](https://github.com/basbugahmet/112233-Game/blob/main/SampleScreenshots/inGame.jpg)
 
 
 
