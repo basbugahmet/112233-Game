@@ -45,7 +45,11 @@ Here are some sample screens from the game with different scores:
 
 
 
+
+
+
 **In-Game**
+
 ![inGame](https://raw.githubusercontent.com/basbugahmet/112233-Game/main/SampleScreenshots/inGame.jpg?token=GHSAT0AAAAAACBDJH4D6LXI5R4J2Y6BILRMZBPODCQ)
 
 
